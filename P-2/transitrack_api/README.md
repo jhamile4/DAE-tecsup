@@ -100,3 +100,5 @@ Buscar rutas cuyo origen o destino contenga "Aeropuerto":
 
 Bash
 curl -X GET http://127.0.0.1:8000/api/v1/rutas/?search=Aeropuerto
+
+![alt text](image.png)
