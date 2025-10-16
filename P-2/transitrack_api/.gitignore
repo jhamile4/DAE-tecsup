@@ -1,0 +1,11 @@
+# .gitignore
+
+# Entorno virtual
+venv/
+
+# Base de datos de SQLite
+db.sqlite3
+
+# Cache de Python
+__pycache__/
+*.pyc
